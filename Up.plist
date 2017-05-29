@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/alobeidaa/Trident/raw/master/tutuvip.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://imgur.com/a/JSMwp</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://imgur.com/a/JSMwp</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tutuapp.vip</string>
+				<key>bundle-version</key>
+				<string>1.6.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>tutuvip</string>
+				<key>title</key>
+				<string>هنا ستصتطيع تحميل tutuapp النسخه المدفوعه مجانا الي هي vip لاصحاب الجلبريك كل ما عليك تثبيت appsync
+
+
+تم العمل من قبل
+aJBbo Cydia
+زورو موقعي
+http://ajbbo.weebly.com
+اضيفو سورسي
+http://ajbbo.yourepo.com
+اشتركو علي قناتي
+aJBbo Cydia
+جميع الحقوق محفوضه لعام 2017 لي aJBbo Cydia</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
